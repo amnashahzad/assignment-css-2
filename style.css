@@ -1,0 +1,58 @@
+.logo{
+color: #f00299;
+font-size: 25px;
+font-family: Arial;
+padding-left: 20px;
+float: left;
+padding-top: 10px;
+}
+
+.menu{
+width: 400px;
+float: left;
+height: 70px;
+}
+
+ul{
+float: left;
+display: flex;
+color: #000;
+justify-content: center;
+align-items: center;
+}
+
+ul li{
+list-style: none;
+margin-left: 62px;
+color: #000;
+margin-top: 27px;
+font-size: 14px;
+}
+
+ul li a{
+text-decoration: none;
+color: #000;
+font-family: Arial;
+font-weight: bold;
+transition: 0.4s ease-in-out;
+}
+
+ul li a:hover{
+color: #ff7200;
+}
+
+.last{
+color: #f00299;
+    
+}
+
+
+/*  */ /*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  *//*  */
+
+.Next {
+    width: 1343px;
+    padding: 30px;
+    /* border: 5px solid gray; */
+    background-color: #37ff00;
+    margin: 0;
+  }
